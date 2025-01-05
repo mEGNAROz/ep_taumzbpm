@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrgovinaApp</string>
+    <string name="slika_produkta">slika produkta</string>
+    <string name="odjava">Odjava</string>
+    <string name="profil">Profil</string>
+    <string name="podatki_o_profilu">Podatki o profilu</string>
+    <string name="ime">Ime</string>
+    <string name="priimek">Priimek</string>
+    <string name="email">Email</string>
+    <string name="cena">Cena</string>
+    <string name="ocena_ni_ocen">Ocena: Ni ocen</string>
+    <string name="opis">Opis</string>
+    <string name="naziv">Naziv</string>
+    <string name="uredi">Uredi</string>
+    <string name="e_po_ta">E-pošta</string>
+    <string name="prijava">PRIJAVA</string>
+</resources>
