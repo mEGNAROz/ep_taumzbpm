@@ -1,0 +1,821 @@
+[30-Dec-2024 20:04:53 Europe/Berlin] Database connection error: SQLSTATE[HY000] [1049] Unknown database 'spletna_trgovina'
+[30-Dec-2024 20:05:48 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 31
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 32
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 33
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 36
+[30-Dec-2024 20:05:48 Europe/Berlin] SQL Query: SELECT * FROM administrator WHERE email = ? AND aktiven = 1 with email: admin@eprodajalna.si
+[30-Dec-2024 20:05:48 Europe/Berlin] User data: Array
+(
+    [id] => 1
+    [ime] => Admin
+    [priimek] => Administrator
+    [email] => admin@eprodajalna.si
+    [geslo] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [cert_subject_dn] => 
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:38:06
+    [updated_at] => 2024-12-30 19:38:06
+)
+
+[30-Dec-2024 20:05:48 Europe/Berlin] User found: Array
+(
+    [id] => 1
+    [ime] => Admin
+    [priimek] => Administrator
+    [email] => admin@eprodajalna.si
+    [geslo] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [cert_subject_dn] => 
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:38:06
+    [updated_at] => 2024-12-30 19:38:06
+)
+
+[30-Dec-2024 20:05:48 Europe/Berlin] Password verified successfully
+[30-Dec-2024 20:05:48 Europe/Berlin] Session after login: Array
+(
+    [user_id] => 1
+    [user_name] => Admin Administrator
+    [user_type] => admin
+)
+
+[30-Dec-2024 20:05:48 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:05:48 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 31
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 32
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 33
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 36
+[30-Dec-2024 20:05:48 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 31
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 32
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 33
+[30-Dec-2024 20:05:48 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\config.php on line 36
+[30-Dec-2024 20:06:42 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:06:48 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:06:48 Europe/Berlin] SQL Query: SELECT * FROM administrator WHERE email = ? AND aktiven = 1 with email: admin@eprodajalna.si
+[30-Dec-2024 20:06:48 Europe/Berlin] User data: Array
+(
+    [id] => 1
+    [ime] => Admin
+    [priimek] => Administrator
+    [email] => admin@eprodajalna.si
+    [geslo] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [cert_subject_dn] => 
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:38:06
+    [updated_at] => 2024-12-30 19:38:06
+)
+
+[30-Dec-2024 20:06:48 Europe/Berlin] User found: Array
+(
+    [id] => 1
+    [ime] => Admin
+    [priimek] => Administrator
+    [email] => admin@eprodajalna.si
+    [geslo] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [cert_subject_dn] => 
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:38:06
+    [updated_at] => 2024-12-30 19:38:06
+)
+
+[30-Dec-2024 20:06:48 Europe/Berlin] Password verified successfully
+[30-Dec-2024 20:06:48 Europe/Berlin] Session after login: Array
+(
+    [user_id] => 1
+    [user_name] => Admin Administrator
+    [user_type] => admin
+)
+
+[30-Dec-2024 20:06:48 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:06:49 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:07 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:07 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:08:07 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:07 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:08:08 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:08 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:08:08 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:08 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:08:08 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:08 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:08:08 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:08 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:08:15 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:08:15 Europe/Berlin] Login attempt - Email: bine@trgovina.com, Type: prodajalec
+[30-Dec-2024 20:08:15 Europe/Berlin] SQL Query: SELECT * FROM prodajalec WHERE email = ? with email: bine@trgovina.com
+[30-Dec-2024 20:08:15 Europe/Berlin] Found user: Yes
+[30-Dec-2024 20:08:15 Europe/Berlin] User data: Array
+(
+    [id] => 3
+    [ime] => Bine
+    [priimek] => Bine
+    [email] => bine@trgovina.com
+    [geslo] => $2y$10$jp3YhzhNBkPJHllQXBV4D.PVcqCTOclQpwGAh0R/2siGgrnsLfjcO
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:56:15
+    [updated_at] => 2024-12-30 19:56:15
+)
+
+[30-Dec-2024 20:08:15 Europe/Berlin] Stored hash: $2y$10$jp3YhzhNBkPJHllQXBV4D.PVcqCTOclQpwGAh0R/2siGgrnsLfjcO
+[30-Dec-2024 20:08:15 Europe/Berlin] Input password: password
+[30-Dec-2024 20:08:15 Europe/Berlin] Password verified: Yes
+[30-Dec-2024 20:08:15 Europe/Berlin] Password verified successfully
+[30-Dec-2024 20:08:15 Europe/Berlin] Session data: Array
+(
+    [user_id] => 3
+    [user_name] => Bine Bine
+    [user_type] => prodajalec
+    [email] => bine@trgovina.com
+)
+
+[30-Dec-2024 20:08:15 Europe/Berlin] Redirecting to: seller/index.php
+[30-Dec-2024 20:09:13 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:13 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:13 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:09:21 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:21 Europe/Berlin] Login attempt - Email: a@gmail.com, Type: stranka
+[30-Dec-2024 20:09:21 Europe/Berlin] SQL Query: SELECT * FROM stranka WHERE email = ? with email: a@gmail.com
+[30-Dec-2024 20:09:21 Europe/Berlin] Found user: Yes
+[30-Dec-2024 20:09:21 Europe/Berlin] User data: Array
+(
+    [id] => 3
+    [ime] => ASdasd
+    [priimek] => asd
+    [ulica] => Kardeljeva 13A
+    [hisna_stevilka] => 13A
+    [posta] => Ljubljana
+    [postna_stevilka] => 1290
+    [email] => a@gmail.com
+    [geslo] => $2y$10$KcpWeDaojSKHSCIYLSezgugJTk4RBxwWG9c6n/DV90FcAxsIASSZy
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:53:54
+    [updated_at] => 2024-12-30 19:53:54
+)
+
+[30-Dec-2024 20:09:21 Europe/Berlin] Stored hash: $2y$10$KcpWeDaojSKHSCIYLSezgugJTk4RBxwWG9c6n/DV90FcAxsIASSZy
+[30-Dec-2024 20:09:21 Europe/Berlin] Input password: password
+[30-Dec-2024 20:09:21 Europe/Berlin] Password verified: Yes
+[30-Dec-2024 20:09:21 Europe/Berlin] Password verified successfully
+[30-Dec-2024 20:09:21 Europe/Berlin] Session data: Array
+(
+    [user_id] => 3
+    [user_name] => ASdasd asd
+    [user_type] => stranka
+    [email] => a@gmail.com
+)
+
+[30-Dec-2024 20:09:21 Europe/Berlin] Redirecting to: index.php
+[30-Dec-2024 20:09:21 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:23 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:23 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:09:29 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:29 Europe/Berlin] Login attempt - Email: admin@eprodajalna.si, Type: admin
+[30-Dec-2024 20:09:29 Europe/Berlin] SQL Query: SELECT * FROM administrator WHERE email = ? with email: admin@eprodajalna.si
+[30-Dec-2024 20:09:29 Europe/Berlin] Found user: Yes
+[30-Dec-2024 20:09:29 Europe/Berlin] User data: Array
+(
+    [id] => 1
+    [ime] => Admin
+    [priimek] => Administrator
+    [email] => admin@eprodajalna.si
+    [geslo] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [cert_subject_dn] => 
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:38:06
+    [updated_at] => 2024-12-30 19:38:06
+)
+
+[30-Dec-2024 20:09:29 Europe/Berlin] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[30-Dec-2024 20:09:29 Europe/Berlin] Input password: password
+[30-Dec-2024 20:09:29 Europe/Berlin] Password verified: Yes
+[30-Dec-2024 20:09:29 Europe/Berlin] Password verified successfully
+[30-Dec-2024 20:09:29 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => Admin Administrator
+    [user_type] => admin
+    [email] => admin@eprodajalna.si
+)
+
+[30-Dec-2024 20:09:29 Europe/Berlin] Redirecting to: admin/index.php
+[30-Dec-2024 20:09:29 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:29 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:09:29 Europe/Berlin] Current session data: Array
+(
+)
+
+[30-Dec-2024 20:10:04 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:05 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:05 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:05 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:05 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:05 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:05 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:06 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:06 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:14 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:14 Europe/Berlin] SQL Query: SELECT * FROM administrator WHERE email = ? with email: admin@eprodajalna.si
+[30-Dec-2024 20:10:14 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:10:14 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:32 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:32 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:33 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:34 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:41 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:42 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:44 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:11:46 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:12:00 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:12:03 Europe/Berlin] Database connection successful
+[30-Dec-2024 20:14:42 Europe/Berlin] Login attempt - Email: bine@trgovina.com, Type: prodajalec
+[30-Dec-2024 20:14:42 Europe/Berlin] Found user: Array
+(
+    [id] => 3
+    [ime] => Bine
+    [priimek] => Bine
+    [email] => bine@trgovina.com
+    [geslo] => $2y$10$jp3YhzhNBkPJHllQXBV4D.PVcqCTOclQpwGAh0R/2siGgrnsLfjcO
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:56:15
+    [updated_at] => 2024-12-30 19:56:15
+)
+
+[30-Dec-2024 20:14:42 Europe/Berlin] Stored hash: $2y$10$jp3YhzhNBkPJHllQXBV4D.PVcqCTOclQpwGAh0R/2siGgrnsLfjcO
+[30-Dec-2024 20:14:42 Europe/Berlin] Input password: password
+[30-Dec-2024 20:14:42 Europe/Berlin] Password verified: Yes
+[30-Dec-2024 20:14:42 Europe/Berlin] Session data: Array
+(
+    [user_id] => 3
+    [user_name] => Bine Bine
+    [user_type] => prodajalec
+    [email] => bine@trgovina.com
+)
+
+[30-Dec-2024 20:14:42 Europe/Berlin] Redirecting to: seller/
+[30-Dec-2024 20:14:42 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:14:59 Europe/Berlin] Login attempt - Email: janez@eprodajalna.si, Type: prodajalec
+[30-Dec-2024 20:14:59 Europe/Berlin] Found user: Array
+(
+    [id] => 1
+    [ime] => Janez
+    [priimek] => Prodajalec
+    [email] => janez@eprodajalna.si
+    [geslo] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [aktiven] => 1
+    [created_at] => 2024-12-30 19:38:06
+    [updated_at] => 2024-12-30 19:38:06
+)
+
+[30-Dec-2024 20:14:59 Europe/Berlin] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[30-Dec-2024 20:14:59 Europe/Berlin] Input password: password
+[30-Dec-2024 20:14:59 Europe/Berlin] Password verified: Yes
+[30-Dec-2024 20:14:59 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => Janez Prodajalec
+    [user_type] => prodajalec
+    [email] => janez@eprodajalna.si
+)
+
+[30-Dec-2024 20:14:59 Europe/Berlin] Redirecting to: seller/
+[30-Dec-2024 20:14:59 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:19:11 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:21:54 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:22:29 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:23:52 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:25:31 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:26:53 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:28:18 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:30:33 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:32:21 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:33:17 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:34:40 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:39:19 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:39:36 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:41:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\login.php on line 10
+[30-Dec-2024 20:41:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\login.php on line 10
+[30-Dec-2024 20:41:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\login.php on line 10
+[30-Dec-2024 20:42:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\login.php on line 10
+[30-Dec-2024 20:42:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\login.php on line 10
+[30-Dec-2024 20:44:21 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:46:17 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:47:02 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 20:50:41 Europe/Berlin] PHP Warning:  Undefined array key "user_type" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 6
+[30-Dec-2024 21:12:59 Europe/Berlin] PHP Warning:  Undefined array key "user_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 52
+[30-Dec-2024 21:12:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 52
+[30-Dec-2024 21:13:26 Europe/Berlin] PHP Warning:  Undefined array key "user_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 52
+[30-Dec-2024 21:13:26 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\seller\index.php on line 52
+[30-Dec-2024 21:18:35 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:35 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:40 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:40 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:43 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:45 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:45 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:54 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:54 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:55 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:55 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:58 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:18:58 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 52
+[30-Dec-2024 21:21:08 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:08 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:09 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:09 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:11 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:12 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:12 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:14 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:14 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:16 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:16 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:53 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:21:53 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:01 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:01 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:02 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:02 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:02 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:02 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:02 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:02 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:03 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:03 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:04 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:04 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:59 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:22:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:00 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:00 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:00 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:00 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:01 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:01 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:02 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:02 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:03 Europe/Berlin] PHP Warning:  Undefined array key "admin_name" in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[30-Dec-2024 21:23:03 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Elektronsko poslovanje\all again\htdocs\Seminarska_vaje\public\admin\index.php on line 51
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:07:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 80
+[03-Jan-2025 00:07:59 UTC] PHP Stack trace:
+[03-Jan-2025 00:07:59 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 00:07:59 UTC] PHP   2. explode($separator = ',', $string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:80
+[03-Jan-2025 00:22:22 UTC] PHP Warning:  Undefined variable $iskanje in /home/ep/NetBeansProjects/Seminarska_vaje/stranka/index.php on line 81
+[03-Jan-2025 00:22:22 UTC] PHP Stack trace:
+[03-Jan-2025 00:22:22 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/stranka/index.php:0
+[03-Jan-2025 00:22:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/stranka/index.php on line 81
+[03-Jan-2025 00:22:22 UTC] PHP Stack trace:
+[03-Jan-2025 00:22:22 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/stranka/index.php:0
+[03-Jan-2025 00:22:22 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/stranka/index.php:81
+[03-Jan-2025 00:49:28 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 260
+[03-Jan-2025 00:49:28 UTC] PHP Stack trace:
+[03-Jan-2025 00:49:28 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:49:28 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 260
+[03-Jan-2025 00:49:28 UTC] PHP Stack trace:
+[03-Jan-2025 00:49:28 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:49:29 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 260
+[03-Jan-2025 00:49:29 UTC] PHP Stack trace:
+[03-Jan-2025 00:49:29 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:49:29 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 260
+[03-Jan-2025 00:49:29 UTC] PHP Stack trace:
+[03-Jan-2025 00:49:29 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:10 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 201
+[03-Jan-2025 00:50:10 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:10 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Undefined variable $izdelek in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:50:53 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 203
+[03-Jan-2025 00:50:53 UTC] PHP Stack trace:
+[03-Jan-2025 00:50:53 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:56:29 UTC] PHP Warning:  Undefined variable $artikel_id in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 70
+[03-Jan-2025 00:56:29 UTC] PHP Stack trace:
+[03-Jan-2025 00:56:29 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 00:57:40 UTC] PHP Warning:  Undefined variable $artikel_id in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 70
+[03-Jan-2025 00:57:40 UTC] PHP Stack trace:
+[03-Jan-2025 00:57:40 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[03-Jan-2025 01:56:58 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 10
+[03-Jan-2025 01:56:58 UTC] PHP Stack trace:
+[03-Jan-2025 01:56:58 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 01:57:12 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 10
+[03-Jan-2025 01:57:12 UTC] PHP Stack trace:
+[03-Jan-2025 01:57:12 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 01:57:40 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 10
+[03-Jan-2025 01:57:40 UTC] PHP Stack trace:
+[03-Jan-2025 01:57:40 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 01:57:40 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 10
+[03-Jan-2025 01:57:40 UTC] PHP Stack trace:
+[03-Jan-2025 01:57:40 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 01:57:44 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 10
+[03-Jan-2025 01:57:44 UTC] PHP Stack trace:
+[03-Jan-2025 01:57:44 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[03-Jan-2025 14:06:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.slike' in 'field list' in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:24
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php(24): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 24
+[03-Jan-2025 14:10:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eprodajalna.ocena' doesn't exist in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:113
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(113): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 113
+[03-Jan-2025 14:12:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eprodajalna.ocena' doesn't exist in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:113
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(113): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 113
+[03-Jan-2025 14:17:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eprodajalna.ocena' doesn't exist in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:113
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(113): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 113
+[03-Jan-2025 14:18:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1191 Can't find FULLTEXT index matching the column list in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:114
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(114): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 114
+[03-Jan-2025 14:19:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1191 Can't find FULLTEXT index matching the column list in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:26
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php(26): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 26
+[04-Jan-2025 13:20:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eprodajalna.artikel_slike' doesn't exist in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:26
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php(26): PDO->prepare()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 26
+[04-Jan-2025 17:16:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/index.php:23) in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/index.php on line 40
+[04-Jan-2025 17:16:57 UTC] PHP Stack trace:
+[04-Jan-2025 17:16:57 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/index.php:0
+[04-Jan-2025 17:16:57 UTC] PHP   2. header($header = 'Location: ../public/login.php') /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/index.php:40
+[04-Jan-2025 18:56:04 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:56:04 UTC] PHP Stack trace:
+[04-Jan-2025 18:56:04 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:56:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:56:04 UTC] PHP Stack trace:
+[04-Jan-2025 18:56:04 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:56:04 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:152
+[04-Jan-2025 18:56:04 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:56:04 UTC] PHP Stack trace:
+[04-Jan-2025 18:56:04 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:56:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:56:04 UTC] PHP Stack trace:
+[04-Jan-2025 18:56:04 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:56:04 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:152
+[04-Jan-2025 18:56:04 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:56:04 UTC] PHP Stack trace:
+[04-Jan-2025 18:56:04 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:56:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:56:04 UTC] PHP Stack trace:
+[04-Jan-2025 18:56:04 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:56:04 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:152
+[04-Jan-2025 18:59:56 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:59:56 UTC] PHP Stack trace:
+[04-Jan-2025 18:59:56 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:59:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:59:56 UTC] PHP Stack trace:
+[04-Jan-2025 18:59:56 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:59:56 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:152
+[04-Jan-2025 18:59:56 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:59:56 UTC] PHP Stack trace:
+[04-Jan-2025 18:59:56 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:59:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:59:56 UTC] PHP Stack trace:
+[04-Jan-2025 18:59:56 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:59:56 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:152
+[04-Jan-2025 18:59:56 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:59:56 UTC] PHP Stack trace:
+[04-Jan-2025 18:59:56 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:59:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 152
+[04-Jan-2025 18:59:56 UTC] PHP Stack trace:
+[04-Jan-2025 18:59:56 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 18:59:56 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:152
+[04-Jan-2025 19:10:30 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 149
+[04-Jan-2025 19:10:30 UTC] PHP Stack trace:
+[04-Jan-2025 19:10:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 19:10:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 149
+[04-Jan-2025 19:10:30 UTC] PHP Stack trace:
+[04-Jan-2025 19:10:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 19:10:30 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:149
+[04-Jan-2025 19:10:30 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 149
+[04-Jan-2025 19:10:30 UTC] PHP Stack trace:
+[04-Jan-2025 19:10:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 19:10:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 149
+[04-Jan-2025 19:10:30 UTC] PHP Stack trace:
+[04-Jan-2025 19:10:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 19:10:30 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:149
+[04-Jan-2025 19:10:30 UTC] PHP Warning:  Undefined array key "cert_serial" in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 149
+[04-Jan-2025 19:10:30 UTC] PHP Stack trace:
+[04-Jan-2025 19:10:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 19:10:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php on line 149
+[04-Jan-2025 19:10:30 UTC] PHP Stack trace:
+[04-Jan-2025 19:10:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:0
+[04-Jan-2025 19:10:30 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/admin/prodajalci.php:149
+[04-Jan-2025 21:10:47 UTC] PHP Warning:  Undefined variable $action in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/narocilo_podrobnosti.php on line 27
+[04-Jan-2025 21:10:47 UTC] PHP Stack trace:
+[04-Jan-2025 21:10:47 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/narocilo_podrobnosti.php:0
+[04-Jan-2025 21:11:12 UTC] PHP Warning:  Undefined variable $action in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/narocilo_podrobnosti.php on line 27
+[04-Jan-2025 21:11:12 UTC] PHP Stack trace:
+[04-Jan-2025 21:11:12 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/narocilo_podrobnosti.php:0
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[04-Jan-2025 21:22:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php on line 96
+[04-Jan-2025 21:22:32 UTC] PHP Stack trace:
+[04-Jan-2025 21:22:32 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:0
+[04-Jan-2025 21:22:32 UTC] PHP   2. htmlspecialchars($string = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/public/index.php:96
+[05-Jan-2025 00:00:03 UTC] PHP Warning:  Undefined variable $_Files in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:03 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:03 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:00:03 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:03 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:03 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:00:03 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:03 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:03 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:00:33 UTC] PHP Warning:  Undefined array key "slika" in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:33 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:33 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:00:33 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:33 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:33 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:00:43 UTC] PHP Warning:  Undefined array key "slika" in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:43 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:43 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:00:43 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 99
+[05-Jan-2025 00:00:43 UTC] PHP Stack trace:
+[05-Jan-2025 00:00:43 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:05:17 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:102
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(102): basename()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 102
+[05-Jan-2025 00:07:01 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:102
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(102): basename()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 102
+[05-Jan-2025 00:07:09 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:102
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(102): basename()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 102
+[05-Jan-2025 00:07:19 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:102
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(102): basename()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 102
+[05-Jan-2025 00:29:30 UTC] PHP Warning:  Undefined variable $_Files in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:29:30 UTC] PHP Stack trace:
+[05-Jan-2025 00:29:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:29:30 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:29:30 UTC] PHP Stack trace:
+[05-Jan-2025 00:29:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:29:30 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:29:30 UTC] PHP Stack trace:
+[05-Jan-2025 00:29:30 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:30:23 UTC] PHP Warning:  Undefined variable $_Files in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:30:23 UTC] PHP Stack trace:
+[05-Jan-2025 00:30:23 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:30:23 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:30:23 UTC] PHP Stack trace:
+[05-Jan-2025 00:30:23 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:30:23 UTC] PHP Warning:  Trying to access array offset on null in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:30:23 UTC] PHP Stack trace:
+[05-Jan-2025 00:30:23 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:30:45 UTC] PHP Warning:  Array to string conversion in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:30:45 UTC] PHP Stack trace:
+[05-Jan-2025 00:30:45 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:35:00 UTC] PHP Warning:  Array to string conversion in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 98
+[05-Jan-2025 00:35:00 UTC] PHP Stack trace:
+[05-Jan-2025 00:35:00 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:49:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: PDOStatement::execute() expects at most 1 argument, 2 given in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:60
+Stack trace:
+#0 /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 60
+[05-Jan-2025 00:52:37 UTC] PHP Warning:  Undefined array key 0 in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 60
+[05-Jan-2025 00:52:37 UTC] PHP Stack trace:
+[05-Jan-2025 00:52:37 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:52:37 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php on line 60
+[05-Jan-2025 00:52:37 UTC] PHP Stack trace:
+[05-Jan-2025 00:52:37 UTC] PHP   1. {main}() /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:0
+[05-Jan-2025 00:52:37 UTC] PHP   2. basename($path = NULL) /home/ep/NetBeansProjects/Seminarska_vaje/prodajalec/artikli.php:60

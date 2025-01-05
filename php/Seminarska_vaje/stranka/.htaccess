@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule "(.*)" "https://%{HTTP_HOST}%{REQUEST_URI}"
+
+
+
+
+#RewriteEngine On
+#
+## Preusmeri vse na HTTPS, razen public
+#RewriteCond %{HTTPS} off
+#RewriteCond %{REQUEST_URI} !^/netbeans/Seminarska_vaje/public [NC]
+#RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
